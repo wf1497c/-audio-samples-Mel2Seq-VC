@@ -1,1 +1,1 @@
-# audio samples of Mel2Seq-VC
+# audio samples of Mel2Seq-VS
